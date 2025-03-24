@@ -38,7 +38,7 @@ const ShenandoahBrochure = () => {
             exchangeIdeas: [
                 "Caribbean-inspired picnic at an overlook",
                 "Photography comparing ocean and mountain horizons",
-                "Nature journals reflecting on different ecosystems",
+                "Nature  reflecting on different ecosystems",
                 "Share family traditions in a new landscape"
             ]
         },
